@@ -1,0 +1,4 @@
+{
+    "serverUrl":"http://192.168.0.191:8080/AuroLocker/AuroClientRequest", 
+    "localServerPath":"http://192.168.0.191:8080/AuroAutoLocker/"
+}
